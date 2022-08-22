@@ -1,0 +1,14 @@
+body {
+  background-color: rgb(175, 243, 243);
+  display: block;
+}
+
+li {
+  list-style-type: none;
+}
+
+img {
+  width: 500px;
+  height: auto;
+  margin-bottom: 7px;
+}
